@@ -2,11 +2,11 @@
 
 Single-Pulse Event Group IDentification (SPEGID) algorithm identifies astrophysical pulse candidates as trial single-pulse event groups (SPEGs) by first applying Density Based Spatial Clustering of Applications with Noise (DBSCAN) (Ester et al. 1996) on trial single-pulse events and then merging the clusters that fall within the expected DM (Dispersion Measure) and time span of astrophysical pulses (Cordes & McLaughlin 2003). SPEGID also calculates the peak score for each SPEG in the S/N versus DM space to identify the expected peak-like shape in the signal-to-noise (S/N) ratio versus DM curve of astrophysical pulses. Additionally, SPEGID groups SPEGs that appear at a consistent DM and therefore are likely emitted from the same source.
 
-After running SPEGID, periocity.py can be used to find (or verify) the underlying periodicity among a group of SPEGs(i.e., astrophysical pulse candidates).
+After running SPEGID.py, periocity.py can be used to find (or verify) the underlying periodicity among a group of SPEGs(i.e., astrophysical pulse candidates).
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
