@@ -1,0 +1,2 @@
+object_obs,RA,Dec,central_freq_low_chan,total_bandwidth
+G33.79+00.82.N,18:49:51.1792,01:07:02.6874,1214.28955078,322.6171875
