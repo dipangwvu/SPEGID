@@ -35,7 +35,7 @@ python periodicity.py
 The output of SPEGID.py is single-pulse event groups (SPEGs) with a list of features.
 The output of periodicity.py is a list of underlying periodicity found among SPEGs.
 
-### Automatic classification of SPEGs Using Supervised Machine Learning
+## For Automatic classification of SPEGs Using Supervised Machine Learning
 
 Please refer to:
 * Di Pang, Katerina Goseva-Popstojanova, Thomas Devine, Maura McLaughlin, A novel single-pulse search approach to detection of dispersed radio pulses using clustering and supervised machine learning, Monthly Notices of the Royal Astronomical Society, Volume 480, Issue 3, November 2018, Pages 3302–3323, https://doi.org/10.1093/mnras/sty1992
