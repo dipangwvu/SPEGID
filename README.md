@@ -38,6 +38,7 @@ The output of periodicity.py is a list of underlying periodicity found among SPE
 ## Built With
 
 * SPEGID is written in Python 2.7.
+* Implementation SPEGID in Python 3 is added.
 
 ## Authors
 
